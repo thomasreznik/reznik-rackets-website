@@ -22,6 +22,7 @@
     
     <!-- Browser Title-->
     <title>Rate Us</title>
+    
   </head>
   <body>
      <?php

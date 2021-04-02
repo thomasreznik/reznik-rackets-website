@@ -7,7 +7,7 @@
     <!-- Bootstrap CSS -->
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-giJF6kkoqNQ00vy+HMDP7azOuL0xtbfIcaT9wjKHr8RbDVddVHyTfAAsrekwKmP1" crossorigin="anonymous">
 
-     <!-- Additional CSS -->
+     <!-- Personal CSS -->
     <link href="Help.css" rel= "stylesheet">
 
     <!-- Google Icons -->
@@ -25,6 +25,7 @@
     
     <!-- Browser Title-->
     <title>Help</title>
+    
   </head>
   <body>
     <?php
@@ -41,7 +42,7 @@
         </div>
         
 
-        <!-- Help Form Design -->
+        <!-- Help Form-->
         <form class="mt-5 mb-5" style="max-width: 600px; margin:auto;" onsubmit="return false">
 
             <div class="row mx-auto mb-2">

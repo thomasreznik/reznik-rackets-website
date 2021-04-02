@@ -43,6 +43,7 @@
         </div>
         </div>
         <div class = "container-fl" id = "middle-contact">
+         <!--Store Hours  -->
         <div class="row pt-5 justify-content-center">
             <div class="col-3">
             <ul class="list">
@@ -56,10 +57,12 @@
             </ul>
             </div>
         </div>
+        <!--Store Number -->
         <div class="row pt-5 pb-5">
             <h5 class="text-center" style="color:red;">(650)-284-8468</h5>
         </div>
         </div>
+         <!--Social Buttons  -->
         <div class ="row mt-5 pt-3 justify-content-center">
             <div class="col-1 text-center">
                 <a href="#" class="fa fa-facebook"></a>
