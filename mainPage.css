@@ -1,0 +1,61 @@
+body {
+    background: lightgray;
+    font-family: 'Saira', sans-serif;
+}
+.navbar-nav>li {
+    padding-right: 40px;
+}
+
+.navbar .dropdown-menu {
+    margin-top: 0px;
+}
+
+.dropdown:hover>.dropdown-menu {
+    display: block;
+}
+.row {
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+
+.col-2 {
+    flex-basis: 50%;
+    min-width: 400px;
+}
+
+.col-2 img {
+    max-width: 100%;
+    padding: 50px 0;
+}
+
+.featured_title {
+    text-align: center;
+}
+
+.featured {
+    padding-top:75px;
+    background: white;
+    padding-bottom: 100px;
+}
+
+h4 {
+    font-weight: normal;
+}
+.exclusive{
+    background:black;
+}
+
+.table {
+    vertical-align: middle;
+}
+
+.carousel-indicators li {
+    filter: invert(100%);
+}
+
+.carousel-control-prev,
+.carousel-control-next {
+    filter: invert(100%);
+}

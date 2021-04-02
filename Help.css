@@ -1,0 +1,19 @@
+body {
+    background: lightgray;
+    font-family: 'Saira', sans-serif;
+}
+
+.navbar-nav>li {
+    padding-right: 40px;
+}
+
+.navbar .dropdown-menu {
+    margin-top: 0px;
+}
+
+.dropdown:hover>.dropdown-menu {
+    display: block;
+}
+#help-top{
+    background:black; 
+}

@@ -1,0 +1,63 @@
+@import url(//netdna.bootstrapcdn.com/font-awesome/3.2.1/css/font-awesome.css);
+body {
+    background: lightgray;
+    font-family: 'Saira', sans-serif;
+}
+.navbar-nav>li {
+    padding-right: 40px;
+}
+
+.navbar .dropdown-menu {
+    margin-top: 0px;
+}
+
+.dropdown:hover>.dropdown-menu {
+    display: block;
+}
+
+#rateUs_top{
+    background:black; 
+}
+
+/*START of code from Yaworek on Codepen.io */
+
+/* Dispaly nothing in the beginning */
+
+.starrating1>input {
+    display: none;
+}
+
+
+/* Remove radio buttons */
+
+.starrating1>label:before {
+    content: "\f005";
+    /* Star */
+    margin: 2px;
+    font-size: 2em;
+    font-family: FontAwesome;
+    display: inline-block;
+}
+
+
+/* Start color when not clicked */
+
+.starrating1>label {
+    color: #000000;
+}
+
+
+/* Set red color when star checked */
+
+.starrating1>input:checked~label {
+    color: #fc0000;
+}
+
+
+/* Set red color when star hover */
+
+.starrating1>input:hover~label {
+    color: #fc0000;
+}
+
+/*END of code from Yaworek on Codepen.io */

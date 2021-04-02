@@ -1,0 +1,44 @@
+body {
+    background: lightgray;
+    font-family: 'Saira', sans-serif;
+}
+
+.navbar-nav>li {
+    padding-right: 40px;
+}
+
+.navbar .dropdown-menu {
+    margin-top: 0px;
+}
+
+.dropdown:hover>.dropdown-menu {
+    display: block;
+}
+
+.fa {
+    padding: 20px;
+    font-size: 50px;
+    width: 50px;
+    text-align: center;
+    text-decoration: none;
+}
+
+.fa:hover {
+    opacity: 0.9;
+    color:red;
+}
+.fa-linkedin {
+    background: #000000;
+    color: white;
+}
+.fa-envelope-square {
+    background: #000000;
+    color: white;
+}
+.fa-github-square {
+    background: #000000;
+    color: white;
+}
+#about-us{
+    background:black;
+}
