@@ -14,6 +14,8 @@ I worked at a tennis shop last summer and saw a need for a direct resource for c
 
 <b>Database:</b> MySQL Database
 
+<b>Additional API's:</b> Bing Maps API
+
 
 The site can be reached with this url: http://thomasreznik.com/Capstone/Login.html
 
