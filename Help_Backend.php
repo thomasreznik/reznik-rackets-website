@@ -30,6 +30,7 @@ if (strlen($message) == 0) {
     echo ("Your MESSAGE entry is empty. Please fill in! \n");
 }
 
+//If inputs are NOT empty then proceed
 if (strlen($firstname) != 0 && strlen($lastname) != 0 && strlen($email) != 0 && strlen($message) != 0) {
     
 //Checks if email entry is valid
