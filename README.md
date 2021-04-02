@@ -8,11 +8,12 @@ I worked at a tennis shop last summer and saw a need for a direct resource for c
 
 <b>The project uses:</b>
 
-Frontend: HTML, CSS, Bootstrap Framework, Javascript
+<b>Frontend:</b> HTML, CSS, Bootstrap Framework, Javascript
 
-Backend: PHP
+<b>Backend:</b> PHP
 
-Database: MySQL Database
+<b>Database:</b> MySQL Database
+
 
 The site can be reached with this url: http://thomasreznik.com/Capstone/Login.html
 
