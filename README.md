@@ -9,7 +9,9 @@ I worked at a tennis shop last summer and saw a need for a direct resource for c
 The project uses:
 
 Frontend: HTML, CSS, Bootstrap Framework, Javascript
+
 Backend: PHP
+
 Database: MySQL Database
 
 The site can be reached with this url: http://thomasreznik.com/Capstone/Login.html
