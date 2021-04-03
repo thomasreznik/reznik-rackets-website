@@ -20,6 +20,7 @@ if (strlen($password) == 0) {
     echo ("Your PASSWORD entry is empty. Please fill in! \n");
 }
 
+//If entries are NOT empty
 if (strlen($username) != 0 && strlen($password) != 0) {
 
 //Query to retrieve username and password
