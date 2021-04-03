@@ -63,15 +63,15 @@
         </div>
         </div>
          <!--Social Buttons  -->
-        <div class ="row mt-5 pt-3 justify-content-center">
+         <div class ="row mt-5 pt-3 justify-content-center">
             <div class="col-1 text-center">
-                <a href="#" class="fa fa-facebook"></a>
+                <a href="https://www.facebook.com/Reznik-Rackets-104559415076260" target="_blank" class="fa fa-facebook"></a>
             </div>
             <div class="col-1 text-center">
-                 <a href="#" class="fa fa-envelope-square"></a>
+                 <a href="mailto:reznikrackets@gmail.com" class="fa fa-envelope-square"></a>
             </div>
             <div class="col-1 text-center">
-                <a href="#" class="fa fa-twitter"></a>
+                <a href="https://twitter.com/reznikrackets" target="_blank" class="fa fa-twitter"></a>
             </div>
         </div>
               

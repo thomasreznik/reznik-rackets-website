@@ -41,29 +41,28 @@
     
     
     <!-- Meet the Team -->
-    <!-- Meet Me -->
     <div class="container mt-5 mb-5 ">
         <h1 class="text-center mt-5 display-5">MEET THE TEAM</h1>
         <div class="row mt-4 mb-5 pt-4 pb-5">
             <div class="col-3  mx-auto">
                 <img src="images/mainpage/thomasreznik.jpg" class="img-fluid img-center">
             </div>
+            <!-- Meet Me -->
             <div class="col-5  mx-auto">
                 <div class="row mt-4 ">
                     <h3>THOMAS REZNIK</h3>
                     <h5 class="pb-3" style="color:red;"><i>FOUNDER</i></h5>
                     <p class=" mb-4 ">As the founder of Reznik Rackets, Thomas owns every aspect of the business: managing finances, testing the rackets, and even building the website front to back. He played for the University of Redlands tennis team while studying Computer Science and Mathematics in his undergraduate studies. Thomas played tennis his whole life, and opened Reznik Racket’s with his customers in mind. As a tennis athlete himself, he knows the right quality needed to be a star on and off the court.</p>
                     <div class="col-2">
-                        <a href="https://www.linkedin.com/in/thomasreznik/" class="fa fa-linkedin"></a>
+                        <a href="https://www.linkedin.com/in/thomasreznik/" target="_blank" class="fa fa-linkedin"></a>
                     </div>
                     <div class="col-2 ">
                         <a href="mailto:thomasreznik2000@gmail.com" class="fa fa-envelope-square"></a>
                     </div>
                     <div class="col-2 ">
-                        <a href="https://github.com/thomasreznik" class="fa fa-github-square fa-xs"></a>
+                        <a href="https://github.com/thomasreznik" target="_blank" class="fa fa-github-square fa-xs"></a>
                     </div>
                 </div>
-
             </div>
         </div>
         
