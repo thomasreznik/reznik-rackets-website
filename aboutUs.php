@@ -25,6 +25,7 @@
     
     <!-- Browser Title-->
     <title>About Us</title>
+    
   </head>
   <body>
      <?php
