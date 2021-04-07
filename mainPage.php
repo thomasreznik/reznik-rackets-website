@@ -101,7 +101,7 @@
                     <h3 style="color:white">20% OFF RACKET STRINGING AFTER A PURCHASE OF $50 OR MORE!</h3>
                      <p class ="pt-3" style="color:white">We provide top-quality, full-service racket stringing. We also provide grommet and grip replacements. 
                      Our skilled team provides a one to two business day turn around, and will get you back on the court in no time! 
-                     <p class = "pt-2"> <a href="ContactUs.php" style="color: red">Contact us to book your next stringing appointment.</p>
+                     <p class = "pt-2"> <a href="contactUs.php" style="color: red">Contact us to book your next stringing appointment.</p>
                 </div>
             </div>
         </div>
