@@ -65,7 +65,7 @@
             title: 'Address:',
 
             //Created Description myself
-            description: '<div class="row"><div class="col-sm"><img src="images/mainpage/Reznik_Rackets.jpg" height = "50"/></div><div class="col-sm">25 Tennis Ct, Brooklyn, NY 11226</div></div>'
+            description: '<div class="col-sm"><img src="images/mainpage/Reznik_Rackets.jpg" height = "50"/></div><div class="col-sm">25 Tennis Ct, Brooklyn, NY 11226</div>'
             };
 
             Microsoft.Maps.Events.addHandler(pin, 'click', pushpinClicked);
