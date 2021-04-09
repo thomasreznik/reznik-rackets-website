@@ -18,7 +18,7 @@ if ($mysqli->connect_errno) {
     
     $total = $design_value + $functionality_value + $user_friendliness_value + $navigability_value + $helpfulness_value;
     
-    $sql = "INSERT INTO Rating VALUES ('$design_value', '$functionality_value', '$user_friendliness_value', '$navigability_value', '$helpfulness_value', '$total')";
+    $sql = "INSERT INTO Rating  (`Design`, `Functionality`, `User Friendliness`, `Navigability`, `Helpfulness`, `Total`) VALUES ('$design_value', '$functionality_value', '$user_friendliness_value', '$navigability_value', '$helpfulness_value', '$total')";
     
     //Sends the query
     $mysqli->query($sql);

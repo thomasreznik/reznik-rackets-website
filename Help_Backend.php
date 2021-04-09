@@ -30,7 +30,6 @@ if (strlen($message) == 0) {
     echo ("Your MESSAGE entry is empty. Please fill in! \n");
 }
 
-//If inputs are NOT empty then proceed
 if (strlen($firstname) != 0 && strlen($lastname) != 0 && strlen($email) != 0 && strlen($message) != 0) {
     
 //Checks if email entry is valid
@@ -39,7 +38,7 @@ if (!(filter_var($email, FILTER_VALIDATE_EMAIL))) {
 }
 else{
     //Query to insert help data into Help table with DB
-    $sql = "INSERT INTO Help VALUES ('$firstname', '$lastname', '$email', '$message')";
+    $sql = "INSERT INTO Help (`Firstname`, `Lastname`, `Email`, `Message`) VALUES ('$firstname', '$lastname', '$email', '$message')";
 
 //Sends the query
     $result = $mysqli->query($sql);
